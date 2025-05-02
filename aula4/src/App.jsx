@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Campanha from './components/Campanha'
 
 
 const App = () => {
